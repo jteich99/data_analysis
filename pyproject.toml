@@ -71,3 +71,8 @@ py-modules = []
 where = ["."]
 include = []
 
+[tool.uv.workspace]
+members = [
+    "TP",
+]
+
